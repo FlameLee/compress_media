@@ -1,5 +1,5 @@
 # compress_media
-pdf/图片压缩脚本
+pdf/图片压缩脚本，只支持mac系统，调用的是macOS的 Swift 程序
 
 1. 终端运行 python3  xxx/xxx/compress_media.py
 2. 根据提示输入文件/文件夹地址
